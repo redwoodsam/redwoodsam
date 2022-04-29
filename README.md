@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my profile
+
+- I'm a brazilian web developer, currently studying Computer Engineering at @Unimar and working as IT intern.
+- My stack is primarily focused on ReactJS, PHP and Python
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?    username=redwoodsam&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwoodsam&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+</div>
+</div>
+
 
 <!--
 **redwoodsam/redwoodsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
