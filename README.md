@@ -1,7 +1,7 @@
-### Welcome to my profile😎
+### Hi, I'm Sam. Be welcome to my profile 😎
 
-- I'm a brazilian web developer, currently studying Computer Engineering at @Unimar and working as IT intern.
-- My stack is primarily focused on ReactJS, PHP and Python
+- Web developer, currently studying Computer Engineering at @Unimar and working as IT intern.
+- My stack is primarily focused on ReactJS, PHP and Python.
 
 <div align="center">
  <div style="display:flex">
