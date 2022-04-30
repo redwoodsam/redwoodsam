@@ -25,7 +25,7 @@
 
 
 <br>
-Come back anytime! 👋
+<div align="center">Come back anytime! 👋</div> 
 <!--
 **redwoodsam/redwoodsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
