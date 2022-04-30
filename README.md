@@ -5,7 +5,7 @@
 
 <div align="center">
  <div style="display:flex">
-  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=redwoodsam&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=redwoodsam&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwoodsam&layout=compact&langs_count=7&theme=discord_old_blurple"/> 
  </div>
 
