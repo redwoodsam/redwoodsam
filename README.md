@@ -1,6 +1,6 @@
 ### Hi, I'm Sam. Be welcome to my profile 😎
 
-- Web developer, Computer Engineering graduating at @Unimar and Developer intern at @SeplagMT.
+- Full-Stack developer, Computer Engineering student at @Unimar and Mid-Level developer at @AldBioenergia.
 - My stack is mainly specialized in Java, ReactJS and Python.
 
 <div align="center">
