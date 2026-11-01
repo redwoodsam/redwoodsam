@@ -1,4 +1,4 @@
-### Hi, I'm Sam. Be welcome to my profile 😎
+### Hi. Be welcome to my profile 😎
 
 - Problem solver through software.
 - My Stack mainly involves Java with Spring Boot, Angular as the frontend, besides some experience with ERP Customization using TOTVS' ADVPL Language.
