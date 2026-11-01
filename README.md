@@ -1,13 +1,8 @@
 ### Hi, I'm Sam. Be welcome to my profile 😎
 
-- Full-Stack developer, Computer Engineering student at @Unimar and Mid-Level developer at @AldBioenergia.
-- My stack is mainly specialized in Java, ReactJS and Python.
+- Problem solver through software.
+- My Stack mainly involves Java with Spring Boot, Angular as the frontend, besides some experience with ERP Customization using TOTVS' ADVPL Language.
 
-<div align="center">
- <div style="display:flex">
-  <img height="180em" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=redwoodsam&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwoodsam&layout=compact&langs_count=7&theme=discord_old_blurple"/> 
- </div>
 
 <div style="display: inline_block"><br>
  <span>Technologies used:</span>
